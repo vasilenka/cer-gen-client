@@ -1,0 +1,11 @@
+.root {
+  background-image: url('./template.jpg');
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

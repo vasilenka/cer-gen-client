@@ -68,20 +68,20 @@ self.__precacheManifest = [
     "url": "/cer-gen-client/static/media/Sentinel-BookItalic.e554c473.otf"
   },
   {
-    "revision": "e87561f832dc7a9d1a2d8e1145359dc3",
-    "url": "/cer-gen-client/static/media/Masbul-ExtraBold.e87561f8.ttf"
-  },
-  {
     "revision": "459275d7d75dd5b0e83df41348e6b514",
     "url": "/cer-gen-client/static/media/Masbul-Black.459275d7.ttf"
   },
   {
-    "revision": "ddc01b174e0cc44bc0802d69f902f5fa",
-    "url": "/cer-gen-client/static/media/Masbul-Bold.ddc01b17.ttf"
+    "revision": "e87561f832dc7a9d1a2d8e1145359dc3",
+    "url": "/cer-gen-client/static/media/Masbul-ExtraBold.e87561f8.ttf"
   },
   {
     "revision": "d38557f85a2941b2492d8c3e89a943ef",
     "url": "/cer-gen-client/static/media/Masbul-Medium.d38557f8.ttf"
+  },
+  {
+    "revision": "ddc01b174e0cc44bc0802d69f902f5fa",
+    "url": "/cer-gen-client/static/media/Masbul-Bold.ddc01b17.ttf"
   },
   {
     "revision": "c24df600a03e9416e359cfb1cf5376a0",

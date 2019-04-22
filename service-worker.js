@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cer-gen-client/precache-manifest.6039ef5e90496d6ceb42f736e36ebe75.js"
+  "/cer-gen-client/precache-manifest.b32e0f7b90e91c9a49ef644a268fed0c.js"
 );
 
 workbox.clientsClaim();

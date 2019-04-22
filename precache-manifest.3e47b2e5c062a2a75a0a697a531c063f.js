@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7e05417efe8bc7e9332b",
+    "revision": "bdb7bba0356483a5b7b3",
     "url": "/cer-gen-client/static/css/main.e22ce393.chunk.css"
   },
   {
-    "revision": "7e05417efe8bc7e9332b",
-    "url": "/cer-gen-client/static/js/main.7e05417e.chunk.js"
+    "revision": "bdb7bba0356483a5b7b3",
+    "url": "/cer-gen-client/static/js/main.bdb7bba0.chunk.js"
   },
   {
     "revision": "31bcf5e30773c41eafd7",
@@ -80,19 +80,19 @@ self.__precacheManifest = [
     "url": "/cer-gen-client/static/media/Masbul-Medium.d38557f8.ttf"
   },
   {
-    "revision": "ddc01b174e0cc44bc0802d69f902f5fa",
-    "url": "/cer-gen-client/static/media/Masbul-Bold.ddc01b17.ttf"
-  },
-  {
     "revision": "c24df600a03e9416e359cfb1cf5376a0",
     "url": "/cer-gen-client/static/media/Masbul-Book.c24df600.ttf"
+  },
+  {
+    "revision": "ddc01b174e0cc44bc0802d69f902f5fa",
+    "url": "/cer-gen-client/static/media/Masbul-Bold.ddc01b17.ttf"
   },
   {
     "revision": "a2f545d30dfa6ce81b53c5f8bab07d32",
     "url": "/cer-gen-client/static/media/Masbul-Light.a2f545d3.ttf"
   },
   {
-    "revision": "ac1adccdd5f857da89d5c6203c799737",
+    "revision": "ca40012ff6d5d977d550c4b5563a2a39",
     "url": "/cer-gen-client/index.html"
   }
 ];

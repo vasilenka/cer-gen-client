@@ -1,7 +1,7 @@
 {
   "main.css": "/cer-gen-client/static/css/main.e22ce393.chunk.css",
-  "main.js": "/cer-gen-client/static/js/main.7e05417e.chunk.js",
-  "main.js.map": "/cer-gen-client/static/js/main.7e05417e.chunk.js.map",
+  "main.js": "/cer-gen-client/static/js/main.bdb7bba0.chunk.js",
+  "main.js.map": "/cer-gen-client/static/js/main.bdb7bba0.chunk.js.map",
   "static/js/1.31bcf5e3.chunk.js": "/cer-gen-client/static/js/1.31bcf5e3.chunk.js",
   "static/js/1.31bcf5e3.chunk.js.map": "/cer-gen-client/static/js/1.31bcf5e3.chunk.js.map",
   "runtime~main.js": "/cer-gen-client/static/js/runtime~main.f9dff693.js",
@@ -10,6 +10,6 @@
   "static/media/stylesheet.css": "/cer-gen-client/static/media/Masbul-Light.a2f545d3.ttf",
   "static/css/main.e22ce393.chunk.css.map": "/cer-gen-client/static/css/main.e22ce393.chunk.css.map",
   "index.html": "/cer-gen-client/index.html",
-  "precache-manifest.b32e0f7b90e91c9a49ef644a268fed0c.js": "/cer-gen-client/precache-manifest.b32e0f7b90e91c9a49ef644a268fed0c.js",
+  "precache-manifest.3e47b2e5c062a2a75a0a697a531c063f.js": "/cer-gen-client/precache-manifest.3e47b2e5c062a2a75a0a697a531c063f.js",
   "service-worker.js": "/cer-gen-client/service-worker.js"
 }
